@@ -16,12 +16,14 @@ namespace PruebaClase1
 
             //E.DeclararVariables();
             //E.DeclararConstantes();
-            E.PedirDatosDinamicos();
+            //E.PedirDatosDinamicos();
+
             E.CalcularPromedio();
 
             //Esta línea lo que hace es que no se cierre la consola hasta que se aprieta enter.
             Console.WriteLine("Precione Enter para salir...");
             Console.ReadLine();
+
 
         }
     }
